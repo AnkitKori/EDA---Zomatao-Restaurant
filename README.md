@@ -1,6 +1,6 @@
 # EDA-Zomatao-Restaurant
 
-![](zomato.jpeg)
+![](zomato.jpg)
 
 - What are the top restaurant chain in mumbai.
 - No. of restaurants in a mumbai location.
